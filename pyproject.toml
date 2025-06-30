@@ -3,3 +3,4 @@ name = "mcp-server-starrocks"
 version = "0.1.0"
 description = "StarRocks MCP (Model Context Protocol) Server"
 requires-python = ">=3.10"
+# clarify the control flow
