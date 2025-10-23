@@ -21,3 +21,4 @@ Notes and usage details for mcp-server-starrocks.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
