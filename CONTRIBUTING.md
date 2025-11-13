@@ -29,3 +29,4 @@ Notes and usage details for mcp-server-starrocks.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
